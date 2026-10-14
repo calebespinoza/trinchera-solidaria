@@ -1,0 +1,64 @@
+{
+  "platos": [
+    {
+      "nombre": "Pique Macho",
+      "precio": "40",
+      "desc": "Carne de res, salchicha, papas fritas, huevo, tomate, cebolla y locoto. La estrella de la kermesse.",
+      "nota": "Porción generosa",
+      "imagen": "assets/plato-pique-macho.jpg"
+    },
+    {
+      "nombre": "Pampaku de Pollo",
+      "precio": "35",
+      "desc": "Pollo cocido bajo tierra al estilo tradicional, con papa, camote, choclo y llajua recién hecha.",
+      "nota": "Cantidad limitada",
+      "imagen": "assets/plato-pampaku.jpg"
+    },
+    {
+      "nombre": "Lechón",
+      "precio": "40",
+      "desc": "Lechón al horno, dorado y crocante, con papa, ensalada y llajua.",
+      "nota": "",
+      "imagen": "assets/plato-lechon.jpg"
+    }
+  ],
+  "premios": [
+    {
+      "lugar": "1°",
+      "nombre": "Set de reloj dorado de 4 piezas",
+      "desc": "Reloj cronógrafo dorado con esfera azul, pulsera cubana, anillo y cadena con dije de cruz. Presentado en su estuche.",
+      "donante": "Donado por la Trinchera Solidaria",
+      "imagen": "assets/premio-reloj-dorado.png"
+    },
+    {
+      "lugar": "2°",
+      "nombre": "Set de reloj negro de 4 piezas",
+      "desc": "Reloj cronógrafo negro con detalles en oro rosa, pulsera cubana, anillo y cadena con dije de cruz.",
+      "donante": "Donado por la Trinchera Solidaria",
+      "imagen": "assets/premio-reloj-negro.png"
+    },
+    {
+      "lugar": "3°",
+      "nombre": "Termo de acero con dos vasos",
+      "desc": "Termo de acero inoxidable que mantiene el calor hasta 12 horas, con dos vasos a juego. Ideal para la oficina o el viaje.",
+      "donante": "Donado por la Trinchera Solidaria",
+      "imagen": "assets/premio-termo.png"
+    },
+    {
+      "lugar": "4°",
+      "nombre": "Kit de lentes LED 4 en 1 para celular",
+      "desc": "Bower Smart Photography Series: lente ojo de pez, macro y gran angular, con aro de luz LED regulable. Compatible con la mayoría de celulares y tablets.",
+      "donante": "Donado por la Trinchera Solidaria",
+      "imagen": "assets/premio-lentes.png"
+    }
+  ],
+  "rifa": {
+    "precio": "10",
+    "sorteo": "Domingo 11 de octubre de 2026, en la kermesse"
+  },
+  "contacto": {
+    "telefono": "+591 72236388",
+    "facebook": "https://www.facebook.com/profile.php?id=61593505890607",
+    "tiktok": "https://www.tiktok.com/@trinchera.solidar"
+  }
+}
