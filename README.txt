@@ -1,7 +1,7 @@
 PUBLISH ON GITHUB PAGES WITH www.trincherasolidaria.org.bo
 
 1. On github.com: New repository, name it "trinchera-solidaria", Public.
-2. Add file > Upload files: upload EVERYTHING in this folder (index.html, kermesse.html, contenido.json, support.js, CNAME, .nojekyll and the assets folder). Commit.
+2. Add file > Upload files: upload EVERYTHING in this folder (index.html, kermesse.html, contenido.json, support.js, CNAME, .nojekyll and .gitignore). Images are loaded from the S3 bucket. Commit.
 3. Repo > Settings > Pages > Source: "Deploy from a branch", Branch: main, folder / (root). Save.
 4. In your domain's DNS panel, create:
    - CNAME | host: www | value: YOUR-USERNAME.github.io
